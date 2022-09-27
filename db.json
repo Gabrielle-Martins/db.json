@@ -5,7 +5,7 @@
 	{"id": 3,"nome": "Isabelle","idade":2,"cpf":52098712345,"nacionalidade": "canadense"}
 	{"id": 4,"nome": "Maria Alice","idade":13,"cpf":67098712345,"nacionalidade": "tailândesa"}
 	{"id": 3,"nome": "Malu","idade":17,"cpf":22098714395,"nacionalidade": "brasileira"}
-	]
+	],
 	
 	"Meninos"  :[
 	{"id": 1,"nome": "Marcos","idade":34,"cpf":1665544285,"nacionalidade": "americano"}
