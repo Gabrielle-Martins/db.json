@@ -1,9 +1,9 @@
 {
 	"Meninas" :[
-	{"id": 1,"nome": "Maria","idade":16,"cpf":16655438975,"nacionalidade": "americana"}
-	{"id": 2,"nome": "Anna","idade":34,"cpf":11844556608,"nacionalidade": "brasileira"}
-	{"id": 3,"nome": "Isabelle","idade":2,"cpf":52098712345,"nacionalidade": "canadense"}
-	{"id": 4,"nome": "Maria Alice","idade":13,"cpf":67098712345,"nacionalidade": "tailândesa"}
+	{"id": 1,"nome": "Maria","idade":16,"cpf":16655438975,"nacionalidade": "americana"},
+	{"id": 2,"nome": "Anna","idade":34,"cpf":11844556608,"nacionalidade": "brasileira"},
+	{"id": 3,"nome": "Isabelle","idade":2,"cpf":52098712345,"nacionalidade": "canadense"},
+	{"id": 4,"nome": "Maria Alice","idade":13,"cpf":67098712345,"nacionalidade": "tailândesa"},
 	{"id": 3,"nome": "Malu","idade":17,"cpf":22098714395,"nacionalidade": "brasileira"}
 	],
 	
